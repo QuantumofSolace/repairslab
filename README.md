@@ -1,6 +1,7 @@
-#REPAIRSLAB: THE OPEN SOURCE SYSTEM TO MANAGE REPAIR SHEET
+# REPAIRSLAB: THE OPEN SOURCE SYSTEM TO MANAGE REPAIR SHEET
 
 *RepairsLab*
+
 *This repo is not the official repo by yavor87/repairslab (also on SourceForge at https://sourceforge.net/projects/repairslab/)*
 
 The system RepairsLab allow to manage the entry and exit of equipment repair in a small workshop for repairs or service center.
@@ -11,4 +12,4 @@ The system provides management of different master data for definition of states
 
 You can print a paper "Repairs sheet" in duplicate to store paper and as a delivery receipt for the customer.
  
-The software is completely free and waiting to raise funds to develop new features.
+http://repairslab.sourceforge.net/index.php?lang=en
